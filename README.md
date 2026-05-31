@@ -1,6 +1,6 @@
-Fraud Detection in E-Commerce Transactions
+**Fraud Detection in E-Commerce Transactions**
 
-Project Overview
+**PROJECT OVERVIEW**
 
 Online retailers lose billions of dollars each year to fraudulent transactions. Detecting fraud quickly is essential to reducing chargebacks, protecting customers, and minimizing financial risk.
 
@@ -17,13 +17,13 @@ The project combines:
 
 ⸻
 
-BUSINESS QUESTION
+**BUSINESS QUESTION**
 
 Which transaction characteristics are most strongly associated with fraud, and how accurately can machine learning identify fraudulent transactions?
 
 ⸻
 
-DATASET
+**DATASET**
 
 Source:
 
